@@ -16,5 +16,6 @@ public class 字节流写数据 {
         File f2=new File("hhh.txt");
         f2.createNewFile();
         f1.close();
+        System.out.println("改变");
     }
 }
