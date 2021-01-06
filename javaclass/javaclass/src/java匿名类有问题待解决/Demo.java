@@ -1,3 +1,5 @@
+package java匿名类有问题待解决;
+
 interface jumping{
     public void show();
 }

@@ -1,3 +1,5 @@
+package java接口和抽象类;
+
 public abstract class Animals{
     private int age=5;
     private String name="卢本伟";

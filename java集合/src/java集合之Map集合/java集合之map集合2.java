@@ -11,7 +11,7 @@ public class java集合之map集合2 {
         mp1.put(1,"xusong");
         mp1.put(2,"huxia");
         System.out.println(mp1.size());
-        System.out.println(mp1.get(001));
+        System.out.println(mp1.get(01));
         Set<Integer> Keyset=mp1.keySet();
         for (Integer ks:Keyset){
             System.out.println(ks);

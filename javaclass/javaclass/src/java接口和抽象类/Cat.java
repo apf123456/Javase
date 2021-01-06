@@ -1,3 +1,7 @@
+package java接口和抽象类;
+
+import java接口和抽象类.jumping;
+
 public class Cat extends Animals implements jumping {
     @Override
     public void eat(){

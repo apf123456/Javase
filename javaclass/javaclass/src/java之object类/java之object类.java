@@ -1,3 +1,5 @@
+package java之object类;
+
 public class java之object类 {
     public static void main(String[] args) {
         student s1=new student("卢本伟",12);

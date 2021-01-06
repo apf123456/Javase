@@ -1,3 +1,5 @@
+package java的常用api之math;
+import java.lang.Math;
 public class java常用api之math {
     public static void main(String[] args) {
         System.out.println(Math.abs(-99));
