@@ -1,3 +1,5 @@
+package java字符串操作;
+
 import java.util.Scanner;
 
 public class java_string {

@@ -1,3 +1,5 @@
+package java之arraylist;
+
 public class student {
     private String age;
     private String name;

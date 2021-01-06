@@ -1,3 +1,5 @@
+package java之异常;
+
 public class java之异常 {
     public static void main(String[] args) {
         System.out.println("开始");

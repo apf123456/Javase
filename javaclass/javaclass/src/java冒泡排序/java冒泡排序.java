@@ -1,3 +1,5 @@
+package java冒泡排序;
+
 import java.util.Arrays;
 
 public class java冒泡排序 {

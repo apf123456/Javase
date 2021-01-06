@@ -1,3 +1,5 @@
+package java之arraylist;
+
 import java.util.ArrayList;
 
 public class java之arraylist {
